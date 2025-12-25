@@ -3,7 +3,7 @@
 🚀 Professional portfolio website showcasing my expertise in AWS, Kubernetes, and DevOps.
 
 ## 🌐 Live Website
-**[ashwanikumar.live](https://ashwanikumar.live)**
+**[https://ashwanikumar.live/](https://ashwanikumar.live)**
 
 ## 💼 About
 Cloud Engineer with 3+ years of experience architecting, deploying, and managing scalable cloud infrastructure on AWS. Expert in containerization, infrastructure automation, and CI/CD pipelines.
@@ -110,5 +110,6 @@ To update the portfolio:
 ---
 
 **Built with ❤️ by Ashwani Kumar**
+
 
 *Last Updated: December 2024*
